@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<colorTheme id="0225" name="FDT-Dark" modified="2012-02-25 17:30:00" author="Peter Hoeche">
+	<!-- Base of this theme is the wombat theme from Lars H. Nielsen (http://dengmao.wordpress.com/2007/01/22/vim-color-scheme-wombat/) -->
+    <searchResultIndication color="#464467" />
+    <filteredSearchResultIndication color="#3f3f6a" />
+    <occurrenceIndication color="#616161" />
+    <writeOccurrenceIndication color="#948567" />
+    <findScope color="#BCADAD" />
+    <sourceHoverBackground color="#a19879" />
+    <singleLineComment color="#99968b" />
+    <multiLineComment color="#99968b" />
+    <commentTaskTag color="#ACC1AC" />
+    <javadoc color="#b3b5af" />
+    <javadocLink color="#a7a7d1" />
+    <javadocTag color="#a7a7d1" />
+    <javadocKeyword color="#f08080" />
+    <class color="#cae682" />
+    <interface color="#CAE682" />
+    <method color="#f3f6ee" />
+    <methodDeclaration color="#f3f6ee" />
+    <bracket color="#f3f6ee" />
+    <number color="#f08080" />
+    <string color="#95e454" />
+    <operator color="#f3f6ee" />
+    <keyword color="#8ac6f2" />
+    <annotation color="#808080" />
+    <staticMethod color="#C4C4B7" />
+    <localVariable color="#D4C4A9" />
+    <localVariableDeclaration color="#D4C4A9" />
+    <field color="#cae682" />
+    <staticField color="#93A2CC" />
+    <staticFinalField color="#53dccd" />
+    <deprecatedMember color="#FFFFFF" />
+    <background color="#242424" />
+    <currentLine color="#656565" />
+    <foreground color="#f6f3e8" />
+    <lineNumber color="#656565" />
+    <selectionBackground color="#898941" />
+    <selectionForeground color="#000000" />
+    
+	<fdt_default color="#F6F3E8" /> <!-- Others -->
+	<fdt_keyword color="#8ac6f2" /> <!-- Keywords -->
+	<fdt_as_return color="#8ac6f2" /> <!-- Keyword 'return' -->
+	<fdt_as_public color="#4D8F2B" /> <!-- Keyword 'public' -->
+	<fdt_as_protected color="#FF9234" /> <!-- Keyword 'protected' -->
+	<fdt_as_private color="#FF201C" /> <!-- Keyword 'private' -->
+	<fdt_as_internal color="#B4B52B" /> <!-- Keyword 'internal' -->
+	<fdt_as_type color="#8ac6f2" /> <!-- Base Types 'void' -->
+	<fdt_as_core color="#cae682" /> <!-- Core Types from MM Classes Root -->
+	<fdt_constant color="#8ac6f2" /> <!-- Constants 'true', 'false', {...} --> 
+	<fdt_singleLineComment color="#99968b" /> <!-- Single-line comment -->
+	<fdt_singleLineCommentTodo color="#a7a7d1" /> <!-- Single-line todo -->
+	<fdt_multiLineComment color="#99968b" /> <!-- Multi-line comment -->
+	<fdt_multiLineCommentTodo color="#a7a7d1" /> <!-- Multi-line todo -->
+	<fdt_javadoc color="#b3b5af" /> <!-- Javadoc -->
+	<fdt_javadocKeyword color="#f08080" /> <!-- Javadoc keyword -->
+	<fdt_javadocLink color="#a7a7d1" /> <!-- Javadoc link -->
+	<fdt_javadocTag color="#a7a7d1" /> <!-- Javadoc HTML tags -->
+	<fdt_javadocTodo color="#a7a7d1" /> <!-- Javadoc todo -->
+	<fdt_string color="#E6DB74" /> <!-- Strings "..." -->
+	<fdt_character color="#E6DB74" /> <!-- Characters '...' -->
+	<fdt_as_occurences color="#616161" /> <!-- AS Occurence (Editors->Text Editors->Annotations) -->
+</colorTheme>
