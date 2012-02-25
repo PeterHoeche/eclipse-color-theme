@@ -1,27 +1,27 @@
 <?xml version="1.0" encoding="utf-8"?>
 <eclipseColorThemeMapping plugin="com.powerflasher.fdt.ui" created="2011-02-14 21:22:54">
     <mappings>
-        <mapping pluginKey="STRING_color" themeKey="string" />
-        <mapping pluginKey="CHARACTER_color" themeKey="string" />
-        <mapping pluginKey="JAVADOC_color" themeKey="javadoc" />
-        <mapping pluginKey="JAVADOC_TAG_color" themeKey="javadocTag" />
-        <mapping pluginKey="JAVADOC_KEYWORD_color" themeKey="javadocKeyword" />
-        <mapping pluginKey="JAVADOC_TODO_color" themeKey="javadocTag" />
-        <mapping pluginKey="JAVADOC_LINK_color" themeKey="javadocLink" />
-        <mapping pluginKey="SINGLELINE_COMMENT_color" themeKey="singleLineComment" />
-        <mapping pluginKey="SINGLELINE_COMMENT_TODO_color" themeKey="javadocTag" />
-        <mapping pluginKey="MULTILINE_COMMENT_color" themeKey="multiLineComment" />
-        <mapping pluginKey="MULTILINE_COMMENT_TODO_color" themeKey="javadocTag" />
-        <mapping pluginKey="AS_PRIVATE_color" themeKey="keyword" />
-        <mapping pluginKey="AS_TYPE_color" themeKey="class" />
-        <mapping pluginKey="AS_INTERNAL_color" themeKey="keyword" />
-        <mapping pluginKey="AS_RETURN_color" themeKey="keyword" />
-        <mapping pluginKey="AS_CONSTANTS_color" themeKey="constant" />
-        <mapping pluginKey="AS_PROTECTED_color" themeKey="keyword" />
-        <mapping pluginKey="AS_PUBLIC_color" themeKey="keyword" />
-        <mapping pluginKey="AS_KEYWORD_color" themeKey="keyword" />
-        <mapping pluginKey="AS_DEFAULT_color" themeKey="foreground" />
-        <mapping pluginKey="AS_CORE_color" themeKey="class" />
+        <mapping pluginKey="STRING_color" themeKey="fdt_string" />
+        <mapping pluginKey="CHARACTER_color" themeKey="fdt_character" />
+        <mapping pluginKey="JAVADOC_color" themeKey="fdt_javadoc" />
+        <mapping pluginKey="JAVADOC_TAG_color" themeKey="fdt_javadocTag" />
+        <mapping pluginKey="JAVADOC_KEYWORD_color" themeKey="fdt_javadocKeyword" />
+        <mapping pluginKey="JAVADOC_TODO_color" themeKey="fdt_javadocTodo" />
+        <mapping pluginKey="JAVADOC_LINK_color" themeKey="fdt_javadocLink" />
+        <mapping pluginKey="SINGLELINE_COMMENT_color" themeKey="fdt_singleLineComment" />
+        <mapping pluginKey="SINGLELINE_COMMENT_TODO_color" themeKey="fdt_singleLineCommentTodo" />
+        <mapping pluginKey="MULTILINE_COMMENT_color" themeKey="fdt_multiLineComment" />
+        <mapping pluginKey="MULTILINE_COMMENT_TODO_color" themeKey="fdt_multiLineCommentTodo" />
+        <mapping pluginKey="AS_PRIVATE_color" themeKey="fdt_as_private" />
+        <mapping pluginKey="AS_TYPE_color" themeKey="fdt_as_type" />
+        <mapping pluginKey="AS_INTERNAL_color" themeKey="fdt_as_internal" />
+        <mapping pluginKey="AS_RETURN_color" themeKey="fdt_as_return" />
+        <mapping pluginKey="AS_CONSTANTS_color" themeKey="fdt_constant" />
+        <mapping pluginKey="AS_PROTECTED_color" themeKey="fdt_as_protected" />
+        <mapping pluginKey="AS_PUBLIC_color" themeKey="fdt_as_public" />
+        <mapping pluginKey="AS_KEYWORD_color" themeKey="fdt_keyword" />
+        <mapping pluginKey="AS_DEFAULT_color" themeKey="fdt_default" />
+        <mapping pluginKey="AS_CORE_color" themeKey="fdt_as_core" />
     </mappings>
     <semanticHighlightingMappings>
 		<semanticHighlightingMapping pluginKey="com.powerflasher.fdt.ui.BasicSemanticHighlightGenerator.AS3.Class" themeKey="class" />
@@ -40,7 +40,7 @@
 		<semanticHighlightingMapping pluginKey="com.powerflasher.fdt.ui.AS3SemanticHighlightGenerator.AS3.XMLAttributeValue" themeKey="string" />
 		<semanticHighlightingMapping pluginKey="com.powerflasher.fdt.ui.AS3SemanticHighlightGenerator.AS3.XMLNamespaceName" themeKey="method" />
 		<semanticHighlightingMapping pluginKey="com.powerflasher.fdt.ui.AS3SemanticHighlightGenerator.AS3.Namespace" themeKey="method" />
-		<semanticHighlightingMapping pluginKey="com.powerflasher.fdt.ui.AS3SemanticHighlightGenerator.AS3.RegEx" themeKey="string" />
+		<semanticHighlightingMapping pluginKey="com.powerflasher.fdt.ui.AS3SemanticHighlightGenerator.AS3.RegEx" themeKey="fdt_string" />
 		<semanticHighlightingMapping pluginKey="com.powerflasher.fdt.ui.AS3SemanticHighlightGenerator.AS3.NamespaceModifier" themeKey="method" />
 		<semanticHighlightingMapping pluginKey="com.powerflasher.fdt.ui.AS3SemanticHighlightGenerator.AS3.XMLCDATAText" themeKey="foreground" />
 		<semanticHighlightingMapping pluginKey="com.powerflasher.fdt.ui.AS3SemanticHighlightGenerator.AS3.XMLComment" themeKey="multiLineComment" />
@@ -60,6 +60,6 @@
 		<semanticHighlightingMapping pluginKey="com.powerflasher.fdt.ui.mxml.mxmlHighlightGenerator.AS3.MXMLOtherTag" themeKey="localVariableDeclaration" />
 		<semanticHighlightingMapping pluginKey="com.powerflasher.fdt.ui.mxml.mxmlHighlightGenerator.AS3.MXMLSetter" themeKey="method" />
 		<semanticHighlightingMapping pluginKey="com.powerflasher.fdt.ui.mxml.mxmlHighlightGenerator.AS3.MXMLModuleTag" themeKey="localVariableDeclaration" />
-		<semanticHighlightingMapping pluginKey="com.powerflasher.fdt.ui.mxml.mxmlHighlightGenerator.AS3.MXMLString" themeKey="string" />
+		<semanticHighlightingMapping pluginKey="com.powerflasher.fdt.ui.mxml.mxmlHighlightGenerator.AS3.MXMLString" themeKey="fdt_string" />
     </semanticHighlightingMappings>
 </eclipseColorThemeMapping>

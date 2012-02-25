@@ -22,6 +22,7 @@
         <mapping pluginKey="pydevOccurrenceIndicationColor" themeKey="occurrenceIndication" />
         <mapping pluginKey="matchingTagIndicationColor" themeKey="occurrenceIndication" />
         <mapping pluginKey="asOccurencesIndicationColor" themeKey="occurrenceIndication" />
+        <mapping pluginKey="com.powerflasher.fdt.ui.annotation.occurences.color" themeKey="fdt_as_occurences" />
         <mapping pluginKey="occurrenceAnnotation.color" themeKey="occurenceIndication" />
         <mapping pluginKey="org.eclipse.cdt.ui.occurrenceIndicationColor" themeKey="occurenceIndication" />
     </mappings>
