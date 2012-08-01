@@ -191,6 +191,9 @@
             file="themes/black-pastel.xml">
       </theme>
       <theme
+            file="themes/fdt-dark.xml">
+      </theme>
+      <theme
             file="themes/frontenddev.xml">
       </theme>
       <theme

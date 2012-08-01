@@ -35,7 +35,7 @@
     <currentLine color="#656565" />
     <foreground color="#f6f3e8" />
     <lineNumber color="#656565" />
-    <selectionBackground color="#898941" />
+    <selectionBackground color="#141414" />
     <selectionForeground color="#000000" />
     
 	<fdt_default color="#F6F3E8" /> <!-- Others -->
